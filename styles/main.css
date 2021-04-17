@@ -1,0 +1,30 @@
+.pageHeader {
+    text-align: center;
+    color: blueviolet;
+    
+}
+
+.Represenative {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.info {
+    justify-content: space-evenly;
+    border: 3px solid blueviolet;
+    padding: 2em;
+    text-align: center;
+    font-style: oblique;
+    font-size: 2em;
+    
+}
+
+h3 {
+    color: red;
+
+}
+.sponsoredLegislation  {
+    color: blue;
+}
+
+
